@@ -1,0 +1,17 @@
+# IDE ve Editör Dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim Sistemi Geçici Dosyaları
+.DS_Store
+Thumbs.db
+
+# Bağımlılıklar (ileride npm kullanırsan)
+node_modules/
+package-lock.json
+
+# Loglar ve Geçici Dosyalar
+*.log
+.env
